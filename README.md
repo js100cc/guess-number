@@ -1,11 +1,5 @@
 # Number Guessing game
 
-<style>
-img {
-width: 100%;
-}
-</style>
-
 This is a baby step toy project for fun.
 
 This 0.0.1 version are just some runnable code.
